@@ -1,0 +1,6 @@
+scopes:
+  source:
+    files:
+      octopus:
+        include:
+          - .octopus/**
